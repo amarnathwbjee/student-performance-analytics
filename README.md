@@ -66,7 +66,7 @@ The program runs end to end without errors and produces a readable report that a
 *<edit: write your own experience here>* Examples: deciding a fair pass rule (every subject vs. average), handling failed students in the grading rule, learning axis-wise NumPy operations, and using `groupby` for department analysis.
 
 ## 10. GitHub Repository
-*<edit: paste your final repository link here>*
+*<[edit: paste your final repository link here](https://student-performance-analytics-kgfbzkgzgwiwcxzs2onktq.streamlit.app/#student-performance-analytics-system)>*
 
 ## Folder Structure
 ```
